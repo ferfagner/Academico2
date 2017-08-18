@@ -8,7 +8,7 @@ public class Principal {
 		
 		Disciplina d1 = new Disciplina("LTP1", "Gisonaldo", "Ciencias da computacao", 75);
 				System.out.println(d1.imprimirDisciplina());		
-				
+				System.out.println(a1.getNome());
 				System.out.println(a1.getCurso());
 				System.out.println(a1.getIdade());
 	}
