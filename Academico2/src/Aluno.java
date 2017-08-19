@@ -15,7 +15,7 @@ public class Aluno {
 	}
 	
 	public String toString() {
-		return "Aluno [nome=" + nome + ", RA=" + RA + ", sexo=" + sexo + ", datadeNascimento=" + datadeNascimento + "]";
+		return "Aluno nome=" + nome + ", RA=" + RA + ", sexo=" + sexo + ", datadeNascimento=" + datadeNascimento ;
 	}
 	public String getNome() {
 		return nome;

@@ -16,7 +16,7 @@ public class Disciplina {
 	
 	@Override
 	public String toString() {
-		return "Disciplina [nome=" + nome + ", curso=" + curso + ", CargaHoraria=" + CargaHoraria + "]";
+		return "Disciplina nome=" + nome + ", curso=" + curso + ", CargaHoraria=" + CargaHoraria ;
 	}
 
 	public String getNome() {

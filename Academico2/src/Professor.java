@@ -17,8 +17,7 @@ public class Professor {
 	}
 	@Override
 	public String toString() {
-		return "Professor [nome=" + nome + ", matricula=" + matricula + ", titulacao=" + titulacao + ", cpf=" + cpf
-				+ "]";
+		return "Professor nome=" + nome + ", matricula=" + matricula + ", titulacao=" + titulacao + ", cpf=" + cpf;
 	}
 	public String getNome() {
 		return nome;
